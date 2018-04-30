@@ -1,0 +1,7 @@
+
+> vue-project@1.0.0 dev /home/ubuntu/vue-project
+> cross-env NODE_ENV=development webpack-dev-server --hot --host=172.31.14.233 --port=8888
+
+Project is running at [1m[34mhttp://172.31.14.233:8888/[39m[22m
+webpack output is served from [1m[34m/dist/[39m[22m
+404s will fallback to [1m[34m/index.html[39m[22m
